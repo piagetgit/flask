@@ -1,1 +1,3 @@
-dhdjghk
+import  django
+
+print("sdgasdg");
